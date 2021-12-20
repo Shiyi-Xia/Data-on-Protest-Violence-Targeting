@@ -1,1 +1,2 @@
 # Data on Protest Violence Targeting
+The literature on protest-oriented violence is growing. However, the variation in the attacked targets are not fully explored due to a lack of comparable data. In an effort to fill this gap, I present the Protest Violence Targeting (PVT) dataset, which offers information the targets attacked by the dissidents in the nonviolent conflicts across Africa between 2000 and 2017.
